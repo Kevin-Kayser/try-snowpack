@@ -1,0 +1,24 @@
+{
+  "name": "try-snowpack",
+  "version": "1.0.0",
+  "description": "I keep hearing good things about snow pack, and on their website they do say _Once you try it, it's impossible to go back to anything else_. sounds pretty hyped, but we'll give it a go and see.",
+  "main": "index.js",
+  "dependencies": {
+    "snowpack": "^2.18.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kevin-Kayser/try-snowpack.git"
+  },
+  "keywords": [],
+  "author": "Kevin Kayser (https://github.com/Kevin-Kayser)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kevin-Kayser/try-snowpack/issues"
+  },
+  "homepage": "https://github.com/Kevin-Kayser/try-snowpack#readme"
+}
